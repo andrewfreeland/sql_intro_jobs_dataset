@@ -1,7 +1,7 @@
 /*
 
 What are the most in-demand skills for Data Analyst roles?
-- Identify top 5 in-demand skills across all Data Analyst job postings
+- Identify top 10 in-demand skills across all Data Analyst job postings
 
 */
 
